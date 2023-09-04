@@ -20,5 +20,5 @@ Neste GIF animado, você pode conferir o projeto em pleno funcionamento.
 ## Acesse o Projeto
 Você pode acessar e interagir com o projeto através do GitHub Pages. Clique no link abaixo para experimentar:
 
-➜ [Link do projeto X-men](https://ezequiel-lee.github.io/x-men-projeto/)
+➜ [Link do projeto X-men](https://ezequiel-lee.github.io/x-men/)
 

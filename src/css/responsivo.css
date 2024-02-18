@@ -37,3 +37,9 @@
     }
 
 }
+
+@media (max-width: 896px) {
+    body {
+        overflow: visible;
+    }
+}

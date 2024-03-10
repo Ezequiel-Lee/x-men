@@ -8,9 +8,11 @@ O projeto consiste em uma interface interativa e responsiva, onde os usuários p
 Eu apenas modifiquei pequenas coisas que achei necessário.
 
 ## Tecnologias Utilizadas
-- **HTML**
-- **CSS**
-- **JavaScript**
+<div style="display: inline_block"><br>
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+</div>
 
 ## Veja o funcionamento!
 <img src="./src/private/gif.gif" alt="Gif mostrando o funcionamento" width="500">
